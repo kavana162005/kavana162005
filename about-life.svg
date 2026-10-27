@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="a">
+<style>
+.ad{font-family:Impact,'Arial Narrow','Helvetica Neue',Arial,sans-serif;font-weight:700;letter-spacing:1px}
+.am{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.as{font-family:'Helvetica Neue',Arial,'Segoe UI',sans-serif}
+
+@media (prefers-reduced-motion: reduce){.aa{animation:none!important}}
+</style>
+<defs>
+<pattern id="adots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1b2a4d" opacity=".7"/></pattern>
+<linearGradient id="ag" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+<linearGradient id="agb" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+<clipPath id="aclip"><rect x="2" y="2" width="896" height="416" rx="24"/></clipPath>
+</defs>
+<rect x="1" y="1" width="898" height="418" rx="25" fill="#070b16" stroke="url(#ag)" stroke-width="2" stroke-opacity=".6"/>
+<rect x="2" y="2" width="896" height="416" rx="24" fill="url(#adots)"/>
+<g clip-path="url(#aclip)"><rect x="0" y="0" width="450" height="5" fill="#247bff"/><rect x="450" y="0" width="450" height="5" fill="#ff354f"/></g>
+<text x="48" y="70" class="am" font-size="14" fill="#247bff">01 / CAPABILITIES</text>
+<text x="48" y="118" class="ad" font-size="48" fill="#f3f5fb">WHAT I DO</text><rect x="48" y="150" width="370" height="52" rx="14" fill="#0d1428" stroke="#1f2d52"/><rect x="48" y="162" width="4" height="28" rx="2" fill="#247bff"/><text x="68" y="173" class="as" font-size="16" font-weight="700" fill="#f3f5fb">Python programming</text><text x="68" y="192" class="am" font-size="12" fill="#8c98b8">Scripts, apps and ML basics</text>
+<rect x="48" y="212" width="370" height="52" rx="14" fill="#0d1428" stroke="#1f2d52"/><rect x="48" y="224" width="4" height="28" rx="2" fill="#ff354f"/><text x="68" y="235" class="as" font-size="16" font-weight="700" fill="#f3f5fb">Web development</text><text x="68" y="254" class="am" font-size="12" fill="#8c98b8">HTML, CSS, JavaScript, PHP</text>
+<rect x="48" y="274" width="370" height="52" rx="14" fill="#0d1428" stroke="#1f2d52"/><rect x="48" y="286" width="4" height="28" rx="2" fill="#247bff"/><text x="68" y="297" class="as" font-size="16" font-weight="700" fill="#f3f5fb">Databases</text><text x="68" y="316" class="am" font-size="12" fill="#8c98b8">MySQL for data-driven apps</text>
+<rect x="48" y="336" width="370" height="52" rx="14" fill="#0d1428" stroke="#1f2d52"/><rect x="48" y="348" width="4" height="28" rx="2" fill="#ff354f"/><text x="68" y="359" class="as" font-size="16" font-weight="700" fill="#f3f5fb">AI &amp; chatbots</text><text x="68" y="378" class="am" font-size="12" fill="#8c98b8">Applied in a library chatbot</text>
+<text x="470" y="70" class="am" font-size="14" fill="#ff354f">02 / BEYOND THE CODE</text>
+<rect x="470" y="86" width="382" height="290" rx="20" fill="#0d1428" stroke="url(#ag)" stroke-width="1.5"/><g opacity="1"><animate attributeName="opacity" calcMode="discrete" values="1;0" keyTimes="0;0.3333" dur="12s" begin="0s" repeatCount="indefinite"/><text x="500" y="140" class="am" font-size="13" fill="#247bff">LEARNING</text><text x="500" y="190" class="ad" font-size="34" fill="#f3f5fb">PYTHON AND AI</text><text x="500" y="232" class="as" font-size="16" fill="#b4bdd6">Infosys Springboard: AI, Generative AI</text><text x="500" y="260" class="as" font-size="16" fill="#b4bdd6">and Python. IGNOU cyber security</text><text x="500" y="288" class="as" font-size="16" fill="#b4bdd6">course (Jan-Apr 2025).</text></g>
+<g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.3333;0.6667" dur="12s" begin="0s" repeatCount="indefinite"/><text x="500" y="140" class="am" font-size="13" fill="#ff354f">BUILDING</text><text x="500" y="190" class="ad" font-size="34" fill="#f3f5fb">REAL-WORLD APPS</text><text x="500" y="232" class="as" font-size="16" fill="#b4bdd6">Resort Management System,</text><text x="500" y="260" class="as" font-size="16" fill="#b4bdd6">Bus Tracking System and a</text><text x="500" y="288" class="as" font-size="16" fill="#b4bdd6">College Library Chatbot.</text></g>
+<g opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;0.6667" dur="12s" begin="0s" repeatCount="indefinite"/><text x="500" y="140" class="am" font-size="13" fill="#247bff">RESEARCHING</text><text x="500" y="190" class="ad" font-size="34" fill="#f3f5fb">GREEN AI</text><text x="500" y="232" class="as" font-size="16" fill="#b4bdd6">A paper comparing TinyBERT,</text><text x="500" y="260" class="as" font-size="16" fill="#b4bdd6">DistilBERT and BERT-base</text><text x="500" y="288" class="as" font-size="16" fill="#b4bdd6">on the IMDb dataset.</text></g>
+<rect x="500" y="338" width="104" height="5" rx="2.5" fill="#1f2d52"/><rect x="500" y="338" width="104" height="5" rx="2.5" fill="url(#agb)"><animate attributeName="width" values="0;104;104" keyTimes="0;0.3333;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect>
+<rect x="612" y="338" width="104" height="5" rx="2.5" fill="#1f2d52"/><rect x="612" y="338" width="0" height="5" rx="2.5" fill="url(#agb)"><animate attributeName="width" values="0;0;104;104" keyTimes="0;0.3333;0.6667;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect>
+<rect x="724" y="338" width="104" height="5" rx="2.5" fill="#1f2d52"/><rect x="724" y="338" width="0" height="5" rx="2.5" fill="url(#agb)"><animate attributeName="width" values="0;0;104" keyTimes="0;0.6667;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect>
+</svg>
